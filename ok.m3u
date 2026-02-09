@@ -125,3 +125,9 @@ https://liveh12.vtvprime.vn/hls/VTV7_HD/index.m3u8
 https://liveh12.vtvprime.vn/hls/VTV8_HD/index.m3u8
 #EXTINF:-1 tvg-id="VTV9.vn@HD" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="Undefined",VTV9 HD (1080p)
 https://liveh12.vtvprime.vn/hls/VTV9_HD/index.m3u8
+
+#EXTINF:-1 group-title="THVL1"  tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/Quang-Cao-Truyen-Hinh-Vinh-Long-1(1).jpg",Vĩnh Long 1 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="THVL2"  tvg-logo="http://www.gmodules.com/gadgets/proxy?container=ig&url=https://static.thvli.vn/assets/thumbnail/2017/05/09/jcsqtzfi_THVL-2-HD-N.jpg" ,Vĩnh Long 2 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8
